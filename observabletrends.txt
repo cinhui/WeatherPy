@@ -1,0 +1,7 @@
+The temperature is warmer close to the equator. The southern hemisphere tends to be warmer this time of year than the northern hemisphere. The temperatures in the southern hemisphere were above 40 F while the temperatures in the northern hemisphere arranged as low as in the negative F degrees.
+
+There is no strong relationship between latitude and humidity but it appears that there's more cities in the northern hemisphere had reported higher humidity levels.
+
+There is no strong relationship between latitude and cloudiness. There are some clusters of cities that are far from the equator that have high percentage of cloudiness.
+
+There is no strong relationship between latitude and wind speed. The cities further away from the equator had higher reported wind speeds (up to 38 mph) while cities at the equator had wind speeds up to 15 mph.
