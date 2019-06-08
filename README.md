@@ -2,7 +2,9 @@ The task was to create a Python script to visualize the weather of 500+ cities a
 
 The following series of scatter plots were generated:
 
-Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+<ul>
+  <li>Temperature (F) vs. Latitude</li>
+  <li>Humidity (%) vs. Latitude</li>
+  <li>Cloudiness (%) vs. Latitude</li>
+  <li>Wind Speed (mph) vs. Latitude</li>
+<ul>
