@@ -1,4 +1,4 @@
-The task was to create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator, utilizing a citiPy and the OpenWeatherMap API.
+The task was to create a Python script to visualize the weather of 500+ cities across the world utilizing citiPy and the OpenWeatherMap API.
 
 The following series of scatter plots were generated:
 
