@@ -8,3 +8,6 @@ The following series of scatter plots were generated:
   <li>Cloudiness (%) vs. Latitude</li>
   <li>Wind Speed (mph) vs. Latitude</li>
 <ul>
+
+The web visualization dashboard can be found here:
+<a href="https://cinhui.github.io/WeatherPy/index.html">https://cinhui.github.io/WeatherPy/index.html</a>
